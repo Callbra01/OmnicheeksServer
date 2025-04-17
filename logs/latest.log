@@ -1,28 +1,145 @@
-[04:12:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:12:33] [ServerMain/INFO]: Loaded 1373 recipes
-[04:12:33] [ServerMain/INFO]: Loaded 1484 advancements
-[04:12:33] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[04:12:33] [Server thread/INFO]: Loading properties
-[04:12:33] [Server thread/INFO]: Default game type: SURVIVAL
-[04:12:33] [Server thread/INFO]: Generating keypair
-[04:12:33] [Server thread/INFO]: Starting Minecraft server on 26.46.191.153:25565
-[04:12:34] [Server thread/INFO]: Using default channel type
-[04:12:34] [Server thread/INFO]: Preparing level "world"
-[04:12:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:12:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:12:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:12:35] [Server thread/INFO]: Time elapsed: 926 ms
-[04:12:35] [Server thread/INFO]: Done (1.154s)! For help, type "help"
-[17:32:10] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:32:10] [Server thread/INFO]: Saved the game
-[17:54:44] [Server thread/INFO]: Stopping the server
-[17:54:44] [Server thread/INFO]: Stopping server
-[17:54:45] [Server thread/INFO]: Saving players
-[17:54:45] [Server thread/INFO]: Saving worlds
-[17:54:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:54:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:54:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:54:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:54:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:54:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:54:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:41:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:41:47] [ServerMain/INFO]: Loaded 1373 recipes
+[21:41:47] [ServerMain/INFO]: Loaded 1484 advancements
+[21:41:47] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[21:41:47] [Server thread/INFO]: Loading properties
+[21:41:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:41:47] [Server thread/INFO]: Generating keypair
+[21:41:47] [Server thread/INFO]: Starting Minecraft server on 26.46.191.153:25565
+[21:41:47] [Server thread/INFO]: Using default channel type
+[21:41:47] [Server thread/INFO]: Preparing level "world"
+[21:41:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:41:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:41:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:41:48] [Server thread/INFO]: Time elapsed: 913 ms
+[21:41:48] [Server thread/INFO]: Done (1.203s)! For help, type "help"
+[21:41:55] [User Authenticator #1/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[21:41:55] [Server thread/INFO]: wightkid[/26.46.191.153:54214] logged in with entity id 11 at (92.09482477348422, 132.0, 182.57221274116137)
+[21:41:55] [Server thread/INFO]: wightkid joined the game
+[21:42:44] [User Authenticator #2/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
+[21:42:44] [Server thread/INFO]: N9CKS[/26.145.148.54:55166] logged in with entity id 949 at (-105.17707040343039, 110.0, -103.02680048997915)
+[21:42:44] [Server thread/INFO]: N9CKS joined the game
+[21:42:47] [Server thread/INFO]: Set the time to 1000
+[21:42:47] [User Authenticator #3/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
+[21:42:48] [Server thread/INFO]: RattSlayer[/26.31.134.86:51338] logged in with entity id 1336 at (803.4413389350196, 69.9375, 160.3315881224106)
+[21:42:48] [Server thread/INFO]: RattSlayer joined the game
+[21:42:53] [User Authenticator #4/INFO]: UUID of player NecroRomance is 0af04a4f-0bd8-40d9-9194-5d94cdf71ed5
+[21:42:53] [Server thread/INFO]: NecroRomance[/26.86.134.26:57334] logged in with entity id 1723 at (-134.7724044074846, 118.0, 81.33474699025948)
+[21:42:53] [Server thread/INFO]: NecroRomance joined the game
+[21:43:39] [Server thread/INFO]: N9CKS lost connection: Disconnected
+[21:43:39] [Server thread/INFO]: N9CKS left the game
+[21:44:15] [User Authenticator #5/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
+[21:44:15] [Server thread/INFO]: N9CKS[/26.145.148.54:55345] logged in with entity id 2967 at (-72.30000001192093, 107.0, -64.77885215591557)
+[21:44:15] [Server thread/INFO]: N9CKS joined the game
+[21:44:32] [Server thread/INFO]: <RattSlayer> 905 69 170
+[21:46:50] [Server thread/INFO]: N9CKS was slain by Zombie
+[21:50:57] [Server thread/INFO]: RattSlayer has made the advancement [Diamonds!]
+[21:51:02] [Server thread/INFO]: N9CKS drowned
+[21:52:09] [Server thread/INFO]: <NecroRomance> GVFRCD GBHYNJKM,LPO0;[-O9LIKUMYJHGVFECDWXSCEY5H6OP[0-O98IYH6TGRFVYH67JLOP09;[-=\
+[21:52:15] [Server thread/INFO]: <wightkid> ^^
+[21:52:19] [Server thread/INFO]: <wightkid> what that guy said
+[21:55:05] [Server thread/INFO]: <N9CKS> ermmm
+[21:55:50] [Server thread/INFO]: RattSlayer has made the advancement [Suit Up]
+[21:57:01] [Server thread/INFO]: RattSlayer has made the advancement [Isn't It Iron Pick]
+[21:57:44] [Server thread/INFO]: wightkid has made the advancement [Take Aim]
+[22:00:55] [Server thread/INFO]: NecroRomance lost connection: Timed out
+[22:00:55] [Server thread/INFO]: NecroRomance left the game
+[22:00:59] [Server thread/INFO]: Seed: [-4310116632780069628]
+[22:01:04] [Server thread/INFO]: <wightkid> -4310116632780069628
+[22:01:20] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:01:20] [Server thread/INFO]: Saved the game
+[22:04:17] [Server thread/INFO]: wightkid was doomed to fall by Skeleton
+[22:06:48] [Server thread/INFO]: wightkid has made the advancement [Diamonds!]
+[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=77, y=113, z=-96} iw{x=76, y=111, z=-97}
+[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=77, y=113, z=-96} iw{x=76, y=111, z=-97}
+[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=78, y=113, z=-97} iw{x=76, y=111, z=-97}
+[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=78, y=113, z=-97} iw{x=76, y=111, z=-97}
+[22:12:48] [Server thread/INFO]: N9CKS was blown up by Creeper
+[22:14:55] [Server thread/INFO]: <wightkid> witterwawy zzin
+[22:15:04] [Server thread/INFO]: RattSlayer lost connection: Disconnected
+[22:15:04] [Server thread/INFO]: RattSlayer left the game
+[22:15:15] [User Authenticator #6/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
+[22:15:16] [Server thread/INFO]: RattSlayer[/26.31.134.86:51548] logged in with entity id 23384 at (1261.4110353417382, 63.0, 186.84101941842954)
+[22:15:16] [Server thread/INFO]: RattSlayer joined the game
+[22:23:15] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:23:15] [Server thread/INFO]: Saved the game
+[22:27:17] [Server thread/INFO]: N9CKS lost connection: Disconnected
+[22:27:17] [Server thread/INFO]: N9CKS left the game
+[22:27:27] [Server thread/INFO]: wightkid lost connection: Disconnected
+[22:27:27] [Server thread/INFO]: wightkid left the game
+[22:27:38] [User Authenticator #7/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[22:27:38] [Server thread/INFO]: wightkid[/26.46.191.153:55382] logged in with entity id 34408 at (99.43219889092912, 133.0625, 182.92500001192093)
+[22:27:38] [Server thread/INFO]: wightkid joined the game
+[22:27:39] [User Authenticator #8/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
+[22:27:39] [Server thread/INFO]: N9CKS[/26.145.148.54:56498] logged in with entity id 34750 at (10.644588709596444, 14.0, 450.08245316614125)
+[22:27:39] [Server thread/INFO]: N9CKS joined the game
+[22:29:19] [Server thread/INFO]: N9CKS has made the advancement [Diamonds!]
+[22:32:49] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:32:49] [Server thread/INFO]: Saved the game
+[22:35:44] [Server thread/INFO]: <RattSlayer> -450 250
+[22:39:03] [Server thread/INFO]: wightkid lost connection: Disconnected
+[22:39:03] [Server thread/INFO]: wightkid left the game
+[22:39:16] [Server thread/INFO]: RattSlayer lost connection: Disconnected
+[22:39:16] [Server thread/INFO]: RattSlayer left the game
+[22:39:17] [Server thread/INFO]: N9CKS lost connection: Disconnected
+[22:39:17] [Server thread/INFO]: N9CKS left the game
+[22:39:25] [User Authenticator #9/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
+[22:39:25] [Server thread/INFO]: RattSlayer[/26.31.134.86:51692] logged in with entity id 42284 at (-399.7350560323818, 120.0, 224.48750001192093)
+[22:39:25] [Server thread/INFO]: RattSlayer joined the game
+[22:39:26] [User Authenticator #10/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[22:39:26] [Server thread/INFO]: wightkid[/26.46.191.153:55684] logged in with entity id 42468 at (-452.30046101860415, 91.0, 196.30256436960283)
+[22:39:26] [Server thread/INFO]: wightkid joined the game
+[22:39:29] [Server thread/INFO]: wightkid lost connection: Disconnected
+[22:39:29] [Server thread/INFO]: wightkid left the game
+[22:39:34] [Server thread/INFO]: Set the time to 1000
+[22:39:36] [User Authenticator #11/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[22:39:36] [Server thread/INFO]: wightkid[/26.46.191.153:55700] logged in with entity id 43042 at (-451.5420459570195, 91.0, 195.90315086219664)
+[22:39:36] [Server thread/INFO]: wightkid joined the game
+[22:39:57] [User Authenticator #12/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
+[22:39:57] [Server thread/INFO]: N9CKS[/26.145.148.54:56830] logged in with entity id 43107 at (-13.635595380345073, 63.0, 326.60881765142744)
+[22:39:57] [Server thread/INFO]: N9CKS joined the game
+[22:43:27] [Server thread/WARN]: Oak Boat (vehicle of wightkid) moved wrongly! 0.2596457060292323
+[22:46:15] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:46:16] [Server thread/INFO]: Saved the game
+[22:49:56] [Server thread/INFO]: RattSlayer lost connection: Disconnected
+[22:49:56] [Server thread/INFO]: RattSlayer left the game
+[22:51:37] [Server thread/INFO]: wightkid lost connection: Disconnected
+[22:51:37] [Server thread/INFO]: wightkid left the game
+[22:52:23] [User Authenticator #13/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[22:52:23] [Server thread/INFO]: wightkid[/26.46.191.153:56027] logged in with entity id 56679 at (-1893.5919503612774, 64.0, -148.30000001192093)
+[22:52:23] [Server thread/INFO]: wightkid joined the game
+[22:57:20] [Server thread/INFO]: wightkid lost connection: Disconnected
+[22:57:20] [Server thread/INFO]: wightkid left the game
+[22:57:56] [Server thread/INFO]: The difficulty has been set to Peaceful
+[22:58:03] [User Authenticator #14/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[22:58:03] [Server thread/INFO]: wightkid[/26.46.191.153:56189] logged in with entity id 63754 at (-348.80685956774744, 68.0, 59.94653194792463)
+[22:58:03] [Server thread/INFO]: wightkid joined the game
+[22:58:08] [Server thread/INFO]: The difficulty has been set to Normal
+[22:58:49] [Server thread/INFO]: Made N9CKS a server operator
+[22:58:54] [Server thread/INFO]: Made wightkid a server operator
+[23:16:53] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:16:53] [Server thread/INFO]: Saved the game
+[23:31:59] [Server thread/INFO]: N9CKS has made the advancement [Suit Up]
+[23:35:39] [Server thread/INFO]: [wightkid: Teleported wightkid to N9CKS]
+[23:36:26] [Server thread/INFO]: [wightkid: Teleported wightkid to 90.500000, 131.000000, 180.500000]
+[23:38:08] [Server thread/INFO]: [wightkid: Teleported wightkid to N9CKS]
+[23:42:44] [Server thread/INFO]: N9CKS has made the advancement [Ice Bucket Challenge]
+[23:43:55] [Server thread/INFO]: wightkid tried to swim in lava
+[23:50:28] [Server thread/INFO]: [wightkid: Teleported N9CKS to wightkid]
+[23:54:52] [Server thread/INFO]: wightkid lost connection: Disconnected
+[23:54:52] [Server thread/INFO]: wightkid left the game
+[23:56:16] [Server thread/INFO]: N9CKS lost connection: Disconnected
+[23:56:16] [Server thread/INFO]: N9CKS left the game
+[23:56:18] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:56:18] [Server thread/INFO]: Saved the game
+[23:56:22] [Server thread/INFO]: Stopping the server
+[23:56:22] [Server thread/INFO]: Stopping server
+[23:56:22] [Server thread/INFO]: Saving players
+[23:56:22] [Server thread/INFO]: Saving worlds
+[23:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
