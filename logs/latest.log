@@ -1,145 +1,224 @@
-[21:41:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:41:47] [ServerMain/INFO]: Loaded 1373 recipes
-[21:41:47] [ServerMain/INFO]: Loaded 1484 advancements
-[21:41:47] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[21:41:47] [Server thread/INFO]: Loading properties
-[21:41:47] [Server thread/INFO]: Default game type: SURVIVAL
-[21:41:47] [Server thread/INFO]: Generating keypair
-[21:41:47] [Server thread/INFO]: Starting Minecraft server on 26.46.191.153:25565
-[21:41:47] [Server thread/INFO]: Using default channel type
-[21:41:47] [Server thread/INFO]: Preparing level "world"
-[21:41:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:41:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:41:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:41:48] [Server thread/INFO]: Time elapsed: 913 ms
-[21:41:48] [Server thread/INFO]: Done (1.203s)! For help, type "help"
-[21:41:55] [User Authenticator #1/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
-[21:41:55] [Server thread/INFO]: wightkid[/26.46.191.153:54214] logged in with entity id 11 at (92.09482477348422, 132.0, 182.57221274116137)
-[21:41:55] [Server thread/INFO]: wightkid joined the game
-[21:42:44] [User Authenticator #2/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
-[21:42:44] [Server thread/INFO]: N9CKS[/26.145.148.54:55166] logged in with entity id 949 at (-105.17707040343039, 110.0, -103.02680048997915)
-[21:42:44] [Server thread/INFO]: N9CKS joined the game
-[21:42:47] [Server thread/INFO]: Set the time to 1000
-[21:42:47] [User Authenticator #3/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
-[21:42:48] [Server thread/INFO]: RattSlayer[/26.31.134.86:51338] logged in with entity id 1336 at (803.4413389350196, 69.9375, 160.3315881224106)
-[21:42:48] [Server thread/INFO]: RattSlayer joined the game
-[21:42:53] [User Authenticator #4/INFO]: UUID of player NecroRomance is 0af04a4f-0bd8-40d9-9194-5d94cdf71ed5
-[21:42:53] [Server thread/INFO]: NecroRomance[/26.86.134.26:57334] logged in with entity id 1723 at (-134.7724044074846, 118.0, 81.33474699025948)
-[21:42:53] [Server thread/INFO]: NecroRomance joined the game
-[21:43:39] [Server thread/INFO]: N9CKS lost connection: Disconnected
-[21:43:39] [Server thread/INFO]: N9CKS left the game
-[21:44:15] [User Authenticator #5/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
-[21:44:15] [Server thread/INFO]: N9CKS[/26.145.148.54:55345] logged in with entity id 2967 at (-72.30000001192093, 107.0, -64.77885215591557)
-[21:44:15] [Server thread/INFO]: N9CKS joined the game
-[21:44:32] [Server thread/INFO]: <RattSlayer> 905 69 170
-[21:46:50] [Server thread/INFO]: N9CKS was slain by Zombie
-[21:50:57] [Server thread/INFO]: RattSlayer has made the advancement [Diamonds!]
-[21:51:02] [Server thread/INFO]: N9CKS drowned
-[21:52:09] [Server thread/INFO]: <NecroRomance> GVFRCD GBHYNJKM,LPO0;[-O9LIKUMYJHGVFECDWXSCEY5H6OP[0-O98IYH6TGRFVYH67JLOP09;[-=\
-[21:52:15] [Server thread/INFO]: <wightkid> ^^
-[21:52:19] [Server thread/INFO]: <wightkid> what that guy said
-[21:55:05] [Server thread/INFO]: <N9CKS> ermmm
-[21:55:50] [Server thread/INFO]: RattSlayer has made the advancement [Suit Up]
-[21:57:01] [Server thread/INFO]: RattSlayer has made the advancement [Isn't It Iron Pick]
-[21:57:44] [Server thread/INFO]: wightkid has made the advancement [Take Aim]
-[22:00:55] [Server thread/INFO]: NecroRomance lost connection: Timed out
-[22:00:55] [Server thread/INFO]: NecroRomance left the game
-[22:00:59] [Server thread/INFO]: Seed: [-4310116632780069628]
-[22:01:04] [Server thread/INFO]: <wightkid> -4310116632780069628
-[22:01:20] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:01:20] [Server thread/INFO]: Saved the game
-[22:04:17] [Server thread/INFO]: wightkid was doomed to fall by Skeleton
-[22:06:48] [Server thread/INFO]: wightkid has made the advancement [Diamonds!]
-[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=77, y=113, z=-96} iw{x=76, y=111, z=-97}
-[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=77, y=113, z=-96} iw{x=76, y=111, z=-97}
-[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=78, y=113, z=-97} iw{x=76, y=111, z=-97}
-[22:11:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=78, y=113, z=-97} iw{x=76, y=111, z=-97}
-[22:12:48] [Server thread/INFO]: N9CKS was blown up by Creeper
-[22:14:55] [Server thread/INFO]: <wightkid> witterwawy zzin
-[22:15:04] [Server thread/INFO]: RattSlayer lost connection: Disconnected
-[22:15:04] [Server thread/INFO]: RattSlayer left the game
-[22:15:15] [User Authenticator #6/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
-[22:15:16] [Server thread/INFO]: RattSlayer[/26.31.134.86:51548] logged in with entity id 23384 at (1261.4110353417382, 63.0, 186.84101941842954)
-[22:15:16] [Server thread/INFO]: RattSlayer joined the game
-[22:23:15] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:23:15] [Server thread/INFO]: Saved the game
-[22:27:17] [Server thread/INFO]: N9CKS lost connection: Disconnected
-[22:27:17] [Server thread/INFO]: N9CKS left the game
-[22:27:27] [Server thread/INFO]: wightkid lost connection: Disconnected
-[22:27:27] [Server thread/INFO]: wightkid left the game
-[22:27:38] [User Authenticator #7/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
-[22:27:38] [Server thread/INFO]: wightkid[/26.46.191.153:55382] logged in with entity id 34408 at (99.43219889092912, 133.0625, 182.92500001192093)
-[22:27:38] [Server thread/INFO]: wightkid joined the game
-[22:27:39] [User Authenticator #8/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
-[22:27:39] [Server thread/INFO]: N9CKS[/26.145.148.54:56498] logged in with entity id 34750 at (10.644588709596444, 14.0, 450.08245316614125)
-[22:27:39] [Server thread/INFO]: N9CKS joined the game
-[22:29:19] [Server thread/INFO]: N9CKS has made the advancement [Diamonds!]
-[22:32:49] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:32:49] [Server thread/INFO]: Saved the game
-[22:35:44] [Server thread/INFO]: <RattSlayer> -450 250
-[22:39:03] [Server thread/INFO]: wightkid lost connection: Disconnected
-[22:39:03] [Server thread/INFO]: wightkid left the game
-[22:39:16] [Server thread/INFO]: RattSlayer lost connection: Disconnected
-[22:39:16] [Server thread/INFO]: RattSlayer left the game
-[22:39:17] [Server thread/INFO]: N9CKS lost connection: Disconnected
-[22:39:17] [Server thread/INFO]: N9CKS left the game
-[22:39:25] [User Authenticator #9/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
-[22:39:25] [Server thread/INFO]: RattSlayer[/26.31.134.86:51692] logged in with entity id 42284 at (-399.7350560323818, 120.0, 224.48750001192093)
-[22:39:25] [Server thread/INFO]: RattSlayer joined the game
-[22:39:26] [User Authenticator #10/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
-[22:39:26] [Server thread/INFO]: wightkid[/26.46.191.153:55684] logged in with entity id 42468 at (-452.30046101860415, 91.0, 196.30256436960283)
-[22:39:26] [Server thread/INFO]: wightkid joined the game
-[22:39:29] [Server thread/INFO]: wightkid lost connection: Disconnected
-[22:39:29] [Server thread/INFO]: wightkid left the game
-[22:39:34] [Server thread/INFO]: Set the time to 1000
-[22:39:36] [User Authenticator #11/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
-[22:39:36] [Server thread/INFO]: wightkid[/26.46.191.153:55700] logged in with entity id 43042 at (-451.5420459570195, 91.0, 195.90315086219664)
-[22:39:36] [Server thread/INFO]: wightkid joined the game
-[22:39:57] [User Authenticator #12/INFO]: UUID of player N9CKS is 41c928db-486a-4028-a0b7-cbdafebe68bb
-[22:39:57] [Server thread/INFO]: N9CKS[/26.145.148.54:56830] logged in with entity id 43107 at (-13.635595380345073, 63.0, 326.60881765142744)
-[22:39:57] [Server thread/INFO]: N9CKS joined the game
-[22:43:27] [Server thread/WARN]: Oak Boat (vehicle of wightkid) moved wrongly! 0.2596457060292323
-[22:46:15] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:46:16] [Server thread/INFO]: Saved the game
-[22:49:56] [Server thread/INFO]: RattSlayer lost connection: Disconnected
-[22:49:56] [Server thread/INFO]: RattSlayer left the game
-[22:51:37] [Server thread/INFO]: wightkid lost connection: Disconnected
-[22:51:37] [Server thread/INFO]: wightkid left the game
-[22:52:23] [User Authenticator #13/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
-[22:52:23] [Server thread/INFO]: wightkid[/26.46.191.153:56027] logged in with entity id 56679 at (-1893.5919503612774, 64.0, -148.30000001192093)
-[22:52:23] [Server thread/INFO]: wightkid joined the game
-[22:57:20] [Server thread/INFO]: wightkid lost connection: Disconnected
-[22:57:20] [Server thread/INFO]: wightkid left the game
-[22:57:56] [Server thread/INFO]: The difficulty has been set to Peaceful
-[22:58:03] [User Authenticator #14/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
-[22:58:03] [Server thread/INFO]: wightkid[/26.46.191.153:56189] logged in with entity id 63754 at (-348.80685956774744, 68.0, 59.94653194792463)
-[22:58:03] [Server thread/INFO]: wightkid joined the game
-[22:58:08] [Server thread/INFO]: The difficulty has been set to Normal
-[22:58:49] [Server thread/INFO]: Made N9CKS a server operator
-[22:58:54] [Server thread/INFO]: Made wightkid a server operator
-[23:16:53] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:16:53] [Server thread/INFO]: Saved the game
-[23:31:59] [Server thread/INFO]: N9CKS has made the advancement [Suit Up]
-[23:35:39] [Server thread/INFO]: [wightkid: Teleported wightkid to N9CKS]
-[23:36:26] [Server thread/INFO]: [wightkid: Teleported wightkid to 90.500000, 131.000000, 180.500000]
-[23:38:08] [Server thread/INFO]: [wightkid: Teleported wightkid to N9CKS]
-[23:42:44] [Server thread/INFO]: N9CKS has made the advancement [Ice Bucket Challenge]
-[23:43:55] [Server thread/INFO]: wightkid tried to swim in lava
-[23:50:28] [Server thread/INFO]: [wightkid: Teleported N9CKS to wightkid]
-[23:54:52] [Server thread/INFO]: wightkid lost connection: Disconnected
-[23:54:52] [Server thread/INFO]: wightkid left the game
-[23:56:16] [Server thread/INFO]: N9CKS lost connection: Disconnected
-[23:56:16] [Server thread/INFO]: N9CKS left the game
-[23:56:18] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:56:18] [Server thread/INFO]: Saved the game
-[23:56:22] [Server thread/INFO]: Stopping the server
-[23:56:22] [Server thread/INFO]: Stopping server
-[23:56:22] [Server thread/INFO]: Saving players
-[23:56:22] [Server thread/INFO]: Saving worlds
-[23:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:06:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:06:53] [ServerMain/INFO]: Loaded 1373 recipes
+[03:06:53] [ServerMain/INFO]: Loaded 1484 advancements
+[03:06:53] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[03:06:53] [Server thread/INFO]: Loading properties
+[03:06:53] [Server thread/INFO]: Default game type: SURVIVAL
+[03:06:53] [Server thread/INFO]: Generating keypair
+[03:06:53] [Server thread/INFO]: Starting Minecraft server on 26.46.191.153:25565
+[03:06:53] [Server thread/INFO]: Using default channel type
+[03:06:53] [Server thread/INFO]: Preparing level "world"
+[03:06:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:06:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:06:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:06:55] [Server thread/INFO]: Time elapsed: 930 ms
+[03:06:55] [Server thread/INFO]: Done (1.125s)! For help, type "help"
+[03:07:02] [User Authenticator #1/INFO]: UUID of player wightkid is 89cb4f8d-0f21-4eba-9346-1d4218adead6
+[03:07:03] [Server thread/INFO]: wightkid[/26.46.191.153:54921] logged in with entity id 10 at (-2656.699999988079, 79.0, -1033.672434494841)
+[03:07:03] [Server thread/INFO]: wightkid joined the game
+[03:07:10] [Server thread/INFO]: Set the time to 1000
+[03:07:23] [User Authenticator #2/INFO]: UUID of player NecroRomance is 0af04a4f-0bd8-40d9-9194-5d94cdf71ed5
+[03:07:23] [Server thread/INFO]: NecroRomance[/26.86.134.26:49840] logged in with entity id 472 at (496.34915541349665, 62.110764312744145, 78.53159412191765)
+[03:07:23] [Server thread/INFO]: NecroRomance joined the game
+[03:07:34] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:07:34] [Server thread/INFO]: Saved the game
+[03:09:03] [User Authenticator #3/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
+[03:09:03] [Server thread/INFO]: RattSlayer[/26.31.134.86:58996] logged in with entity id 3106 at (-657.6999999880791, 76.7531999805212, -144.69999998807907)
+[03:09:03] [Server thread/INFO]: RattSlayer joined the game
+[03:10:49] [Server thread/INFO]: [wightkid: Teleported wightkid to 90.500000, 131.000000, 180.500000]
+[03:24:55] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -10.339273436878557,0.0,-1.1181991691694293
+[03:24:55] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -10.736998443418997,0.0,-1.160770342755768
+[03:24:55] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -11.134725055951549,0.0,-1.2033293508968654
+[03:24:55] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -11.532453113876727,0.0,-1.245877410137382
+[03:24:55] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -11.930182472655815,0.0,-1.2884156153677395
+[03:24:55] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -12.327913002202877,0.0,-1.3309449519890677
+[03:25:04] [Server thread/INFO]: <wightkid> mf in a boat
+[03:25:28] [Server thread/INFO]: <NecroRomance> you too?
+[03:25:31] [Server thread/INFO]: <wightkid> no
+[03:25:32] [Server thread/INFO]: <wightkid> you are
+[03:25:34] [Server thread/INFO]: <wightkid> lmao
+[03:25:40] [Server thread/INFO]: <NecroRomance> how tf you know that
+[03:25:51] [Server thread/INFO]: <wightkid> lmao
+[03:26:04] [Server thread/INFO]: <wightkid> server warning "NECROROMANCE BIRCH BOAT MOVED TOO QUICKLY"
+[03:26:13] [Server thread/INFO]: <wightkid> mf hittin that shit in a birch boat
+[03:26:19] [Server thread/INFO]: <NecroRomance> Well EXcuuuuuuuuuuuuuuuuse me Server
+[03:26:34] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:26:34] [Server thread/INFO]: Saved the game
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 5.541242671656164,0.0,-8.709104053130886
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 5.851776185745166,0.0,-8.944372087897591
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 6.166726536136139,0.0,-9.174602909080932
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 6.485768324030687,0.0,-9.40007542620333
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 6.808596885071893,0.0,-9.621060459608543
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 7.134924848720402,0.0,-9.837825168499421
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 7.464484167688624,0.0,-10.050626728293992
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 7.797026107865349,0.0,-10.259710006044315
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 8.132317823156427,0.0,-10.465312330300094
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 8.470142614426095,0.0,-10.66766088474651
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 8.810298448911908,0.0,-10.86697378974668
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 9.152599902226939,0.0,-11.063454135512984
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 9.496873290047915,0.0,-11.257298457003344
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 9.842960467370176,0.0,-11.44868701265068
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 10.190712450324554,0.0,-11.637795855867807
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 10.540280890648773,0.0,-11.824150856215056
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 10.892024171820594,0.0,-12.006744401546712
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 11.246171483185663,0.0,-12.184785016921978
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 11.602853784681429,0.0,-12.357663473253524
+[03:27:18] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! 11.962125364444546,0.0,-12.52493150611599
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.25463220865322,0.0,8.125730534709419
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.149409899633156,0.0,8.081444422377444
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -18.05470982402403,0.0,8.041586922334318
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.96526371728305,0.0,8.003027237994047
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.880672920034158,0.0,7.965446441961376
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.77322802360368,0.0,7.906734281495574
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.64703163133663,0.0,7.826875070814822
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.50622803277747,0.0,7.725698223072868
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.355019676881057,0.0,7.603008717828288
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.1976717552202,0.0,7.458706088249983
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -17.038500196361383,0.0,7.292893480276234
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -16.881846057433904,0.0,7.1059733192241765
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -16.7313465899083,0.0,6.898892308269296
+[03:27:22] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -16.589974751027512,0.0,6.672960255095404
+[03:27:23] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -16.460088258957057,0.0,6.429709412326702
+[03:27:23] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -16.343497212329567,0.0,6.1707848377204755
+[03:27:23] [Server thread/WARN]: Birch Boat (vehicle of NecroRomance) moved too quickly! -16.241534626837165,0.0,5.897863093092383
+[03:27:55] [Server thread/INFO]: <NecroRomance> Believe I've found my spot
+[03:28:05] [Server thread/INFO]: <wightkid> yeur
+[03:28:16] [Server thread/INFO]: <wightkid> whenever no ones on next ill do an expansion on the chunk limit
+[03:28:37] [Server thread/INFO]: <NecroRomance> I can situate closer to y'all if needed
+[03:28:42] [Server thread/INFO]: <wightkid> nah should be good
+[03:28:45] [Server thread/INFO]: <RattSlayer> co ords?
+[03:28:45] [Server thread/INFO]: <wightkid> u do u homie
+[03:28:53] [Server thread/INFO]: <wightkid> if I find yo shit im hiding shit around there
+[03:31:22] [Server thread/INFO]: wightkid has made the advancement [Ice Bucket Challenge]
+[03:38:48] [Server thread/INFO]: wightkid has made the advancement [We Need to Go Deeper]
+[03:48:10] [Server thread/INFO]: [wightkid: Teleported wightkid to -10.500000, 54.000000, 74.500000]
+[03:48:48] [Server thread/INFO]: <wightkid> what the fuck
+[03:49:04] [Server thread/INFO]: <NecroRomance> ?
+[03:49:13] [Server thread/INFO]: <wightkid> i went to the nether
+[03:49:16] [Server thread/INFO]: <wightkid> a forests
+[03:49:28] [Server thread/INFO]: <wightkid> b. when I left i thought it was my portal, it took me to nicks place
+[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=2554, y=74, z=2178} iw{x=2554, y=73, z=2178}
+[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=2554, y=74, z=2178} iw{x=2554, y=73, z=2178}
+[03:50:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=2554, y=74, z=2178} iw{x=2554, y=73, z=2178}
+[03:50:34] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:50:34] [Server thread/INFO]: Saved the game
+[03:50:50] [Server thread/INFO]: <wightkid> ight im poppin off for a bit, server will stay up gonna do a save
+[03:50:57] [Server thread/INFO]: wightkid lost connection: Disconnected
+[03:50:57] [Server thread/INFO]: wightkid left the game
+[03:51:05] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:51:05] [Server thread/INFO]: Saved the game
+[03:51:15] [Server thread/INFO]: <RattSlayer> niga
+[03:51:35] [Server thread/INFO]: [Not Secure] [Server] niggaballs
+[03:57:55] [Server thread/INFO]: RattSlayer lost connection: Disconnected
+[03:57:55] [Server thread/INFO]: RattSlayer left the game
+[03:58:02] [Server thread/INFO]: RattSlayer (/26.31.134.86:59303) lost connection: Disconnected
+[03:58:08] [User Authenticator #4/INFO]: UUID of player RattSlayer is 1cc3cc9e-bd52-409b-b37c-f0b8bb72c861
+[03:58:08] [Server thread/INFO]: RattSlayer[/26.31.134.86:59311] logged in with entity id 47374 at (-603.0923435647675, 58.30826422808608, -87.47887134396171)
+[03:58:08] [Server thread/INFO]: RattSlayer joined the game
+[04:01:21] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:01:21] [Server thread/INFO]: Saved the game
+[04:05:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-652, y=77, z=-169} iw{x=-649, y=73, z=-167}
+[04:05:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-652, y=77, z=-169} iw{x=-649, y=73, z=-167}
+[04:05:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-652, y=77, z=-169} iw{x=-649, y=73, z=-167}
+[04:05:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-652, y=77, z=-169} iw{x=-649, y=73, z=-167}
+[04:09:27] [Server thread/INFO]: <RattSlayer> ONLY IN DREAMS
+[04:09:35] [Server thread/INFO]: <NecroRomance> DO WE TRULY WAKE
+[04:09:36] [Server thread/INFO]: <RattSlayer> WE SEE WHAT IT MEANS
+[04:09:41] [Server thread/INFO]: <RattSlayer> no
+[04:09:44] [Server thread/INFO]: <RattSlayer> wezer
+[04:09:48] [Server thread/INFO]: <NecroRomance> Virgin
+[04:09:53] [Server thread/INFO]: <RattSlayer> faggot
+[04:10:06] [Server thread/INFO]: <RattSlayer> im obscure
+[04:10:16] [Server thread/INFO]: <RattSlayer> #draingang
+[04:10:36] [Server thread/INFO]: <NecroRomance> Drainogang
+[04:10:43] [Server thread/INFO]: <NecroRomance> we drink Draino
+[04:11:13] [Server thread/INFO]: <RattSlayer> #oneshotofdrainoperweeksyourepregnant
+[04:12:22] [Server thread/INFO]: <NecroRomance> pretty sure a shot of Draino would actually keep you pretty safely from getting pregnant
+[04:12:32] [Server thread/INFO]: <RattSlayer> exactly
+[04:12:41] [Server thread/INFO]: <RattSlayer> #abortionshot
+[04:12:51] [Server thread/INFO]: <NecroRomance> fuck yeah science
+[04:13:10] [Server thread/INFO]: <RattSlayer> #flushit
+[04:13:40] [Server thread/INFO]: <NecroRomance> I drank Lake water as a kid I dont get the flu
+[04:13:57] [Server thread/INFO]: <RattSlayer> i hit my vape after it fell into a creek
+[04:14:06] [Server thread/INFO]: <RattSlayer> sucked all the waterf out
+[04:14:18] [Server thread/INFO]: <RattSlayer> nothing could fix it
+[04:14:37] [Server thread/INFO]: <NecroRomance> Rip to a ripper
+[04:14:45] [Server thread/INFO]: <RattSlayer> literally
+[04:15:09] [Server thread/INFO]: <RattSlayer> level x digital battery and a rough puff pod
+[04:15:49] [Server thread/INFO]: <NecroRomance> my heart will go on penny whistle solo*
+[04:16:11] [Server thread/INFO]: [Not Secure] [Server] drainogang
+[04:16:26] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:16:27] [Server thread/INFO]: Saved the game
+[04:16:28] [Server thread/INFO]: <RattSlayer> pink triangle on her sleeve
+[04:16:37] [Server thread/INFO]: <RattSlayer> let me know the truth
+[04:16:51] [Server thread/INFO]: <NecroRomance> are you quoting weezer again?
+[04:16:56] [Server thread/INFO]: <RattSlayer> maybe
+[04:17:08] [Server thread/INFO]: <RattSlayer> i have blue ablum poster
+[04:17:09] [Server thread/INFO]: <NecroRomance> gdmnt
+[04:19:24] [Server thread/INFO]: <RattSlayer> im a male manipulator apparently
+[04:19:53] [Server thread/INFO]: <NecroRomance> grade A gaslighter no doubt
+[04:20:05] [Server thread/INFO]: <RattSlayer> im s class
+[04:20:12] [Server thread/INFO]: <NecroRomance> You drink white monster as foreplay to beating your wife
+[04:20:21] [Server thread/INFO]: <RattSlayer> dont ever spit lies on my name
+[04:20:31] [Server thread/INFO]: <NecroRomance> sorry it's pink monster
+[04:20:33] [Server thread/INFO]: <NecroRomance> Gonster
+[04:20:40] [Server thread/INFO]: <RattSlayer> nah i down a bottle of everclear
+[04:20:50] [Server thread/INFO]: <NecroRomance> cheers I'll drink to that bro
+[04:20:54] [Server thread/INFO]: <RattSlayer> i genuinley hate monster
+[04:21:01] [Server thread/INFO]: <RattSlayer> battery acid
+[04:21:22] [Server thread/INFO]: NecroRomance was blown up by Creeper
+[04:21:27] [Server thread/INFO]: <RattSlayer> my house is gonna curb stomp yours
+[04:21:31] [Server thread/INFO]: <NecroRomance> well yeah but it wakes you tf up
+[04:21:45] [Server thread/INFO]: <RattSlayer> no it makes me sleepy
+[04:22:01] [Server thread/INFO]: <NecroRomance> my house is currently a hole in a hill so yeah probably
+[04:22:14] [Server thread/INFO]: <RattSlayer> i got a pimp palace
+[04:22:25] [Server thread/INFO]: <RattSlayer> all my signs are being destroyed
+[04:22:34] [Server thread/INFO]: <RattSlayer> why cant i have my signs
+[04:22:46] [Server thread/INFO]: <NecroRomance> can you sleep?
+[04:22:48] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:22:48] [Server thread/INFO]: Saved the game
+[04:22:54] [Server thread/INFO]: <RattSlayer> idk cdan i
+[04:23:09] [Server thread/INFO]: <NecroRomance> cheeky
+[04:23:34] [Server thread/INFO]: <RattSlayer> i must smoke a cigarette
+[04:23:38] [Server thread/INFO]: <RattSlayer> ill return soon
+[04:31:37] [Server thread/INFO]: RattSlayer lost connection: Disconnected
+[04:31:37] [Server thread/INFO]: RattSlayer left the game
+[04:32:15] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:32:15] [Server thread/INFO]: Saved the game
+[04:46:22] [Server thread/INFO]: NecroRomance lost connection: Disconnected
+[04:46:22] [Server thread/INFO]: NecroRomance left the game
+[04:46:31] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:46:31] [Server thread/INFO]: Saved the game
+[04:55:34] [Server thread/INFO]: [Not Secure] [Server] im doing some server property changes, gotta restart rq
+[04:55:39] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:55:39] [Server thread/INFO]: Saved the game
+[04:55:41] [Server thread/INFO]: Stopping the server
+[04:55:41] [Server thread/INFO]: Stopping server
+[04:55:41] [Server thread/INFO]: Saving players
+[04:55:41] [Server thread/INFO]: Saving worlds
+[04:55:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:55:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:55:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:55:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:55:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:55:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:55:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
